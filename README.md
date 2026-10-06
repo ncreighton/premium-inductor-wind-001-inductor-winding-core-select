@@ -1,0 +1,2 @@
+# premium-inductor-wind-001-inductor-winding-core-select
+Tired of tedious inductor winding calculations and core selection guesswork? The Inductor Winding &amp; Core Select Craft Hub is here to revolutionize your workflow.  This Notion template streamlines your inductor design process, providing a centralized hub for calculations, core selection, and crafting. With the Inductor Winding &amp; Core Select Craft Hu
